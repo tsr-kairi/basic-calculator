@@ -201,7 +201,7 @@ class _CalculatorState extends State<Calculator> {
     
     else {
         result = result + btnText;
-        finalResult = result;        
+        finalResult = result;    
     }
 
 
